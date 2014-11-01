@@ -1,4 +1,4 @@
-TestServer
+CoronaCore Test Server
 ==========
 
-CoronaCore Test Server
+Coming Soon
