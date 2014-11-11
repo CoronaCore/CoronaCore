@@ -5,8 +5,14 @@
 
 # ![logo](https://raw.githubusercontent.com/CoronaCore/CoronaCore/master/images/line.png)
 
+## Social Networks
+  * [FaceBook]()
+  * [YouTube]()
+
+# ![logo](https://raw.githubusercontent.com/CoronaCore/CoronaCore/master/images/line.png)
+
 ## Bugtracker
-  * [Coming Soon]()
+  * [GitHub Issues Tracker](https://github.com/CoronaCore/Issues/issues)
 
 # ![logo](https://raw.githubusercontent.com/CoronaCore/CoronaCore/master/images/line.png)
 
