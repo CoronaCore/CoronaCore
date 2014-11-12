@@ -20,5 +20,6 @@
 
   * [GM Chat Color](http://coronacore.github.io/CoronaCore/gmchatcolor.html)
   * [AutoBroadcast](http://coronacore.github.io/CoronaCore/autobroadcast.html)
+  * [NameAnnounce](http://coronacore.github.io/CoronaCore/nameannounce.html)
 
 # ![logo](https://raw.githubusercontent.com/CoronaCore/CoronaCore/master/images/line.png)
